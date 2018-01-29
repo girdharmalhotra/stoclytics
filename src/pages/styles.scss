@@ -1,0 +1,10 @@
+.grid-body {
+  padding: 0 !important;
+
+  .mdc-layout-grid__cell {
+    margin:3px 5px !important;
+    box-shadow: 0px 0px 2px 0 rgba(0,0,0,0.2);
+    background-color: white;
+    border-radius: 5px;
+  }
+}
